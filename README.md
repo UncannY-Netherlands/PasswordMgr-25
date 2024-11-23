@@ -12,6 +12,10 @@ Please note: UncanY Software Netherlands is not in charge if you lose your maste
 
 This software is closed source and indexed.
 
+## Important
+
+Run program as administrator
+
 ## Download
 
 [![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge)](https://github.com/UncannY-Netherlands/PasswordMgr-25/releases/download/v1.0.0/PasswordMgr.25.Setup.exe)
