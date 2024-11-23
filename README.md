@@ -1,4 +1,6 @@
 # PasswordMgr 25
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-10+-0078D6?logo=windows11&logoColor=white)
+
 UncannY Software Netherlands releases PasswordMgr 25
 ## What is PasswordMgr?
 PasswordMgr is a password-manager for Windows 10+, it's build for home-users as evenly Enterprises
