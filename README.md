@@ -14,7 +14,8 @@ This software is closed source and indexed.
 
 ## Download
 
-For download you need to select a release from here, tip: always use the latest version.
-Releases: [Download](https://github.com/UncannY-Netherlands/PasswordMgr-25/releases)
+[![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge)](https://github.com/UncannY-Netherlands/PasswordMgr-25/releases/download/v1.0.0/PasswordMgr.25.Setup.exe)
+
+
 
 Thank you, UncannY Software.
