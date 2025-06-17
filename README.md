@@ -14,13 +14,13 @@ PasswordMgr 25 is build in Python and is a simple CLI (Command Line Interface)
 
 Fist download the setup and run it, after that you need to make a master password this is a password you HAVE to always remember otherwise you lose all your passwords!
 
-Please note: UncanY Software Netherlands is not in charge if you lose your master/normal password(s)!
+Please note: UncannY Software Netherlands is not in charge if you lose your master/normal password(s)!
 
 This software is _~~closed~~_ **Open** Source as of 4-5-2025
 
 ### Developer guide
 
-The Inno Setup files end with a "#" to prevent GitHub picking up the lang as Inno Setup
+The Inno Setup files end with a "#" to prevent GitHub picking up the language as Inno Setup
 
 ## Important
 
@@ -29,7 +29,6 @@ Run program **ALWAYS** as administrator!
 ## Download
 
 [![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge)](https://github.com/UncannY-Netherlands/PasswordMgr-25/releases/latest)
-
 
 ---
 
